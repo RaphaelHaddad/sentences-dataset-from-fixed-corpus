@@ -1,7 +1,7 @@
 # Sentence Dataset Generator from Fixed Corpus
 
 
-![Sentence Generation Example](images/sentences_generation.gif) **WHY ALL THE SENTENCES DATASET HAVE MILLIONS OF SAMPLES ???**
+![Sentence Generation Example](images/keyboard.gif) **WHY ALL THE SENTENCES DATASET HAVE MILLIONS OF SAMPLES ???**
 
 The tool operates as follows:
 
